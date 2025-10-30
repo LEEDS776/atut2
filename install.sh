@@ -10,8 +10,8 @@ echo "Installing Python dependencies..."
 pip install scapy
 
 echo "Cloning repository..."
-git clone https://github.com/yourusername/atut-tool.git
-cd atut-tool
+git clone https://github.com/LEEDS776/atut2.git
+cd atut
 
 echo "Making script executable..."
 chmod +x atut.py
